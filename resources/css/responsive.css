@@ -1,0 +1,151 @@
+@media only screen and (max-width:1200px) {
+    .transformX-630 {
+        transform: translateX(470%) !important;
+    }
+
+    .resp-customer-header {
+        position: relative;
+        right: 8%;
+    }
+}
+
+
+@media only screen and (max-width:995px) {
+
+    .burger-m-customer {
+        display: block !important;
+    }
+
+    .transformX-100 {
+        transform: translateX(0%) !important;
+    }
+
+    .transformX-240 {
+        transform: translateX(0%) !important;
+    }
+
+    .transformX-630 {
+        transform: translateX(0%) !important;
+    }
+
+    .separateur {
+        display: none !important;
+    }
+
+    .translateY-neg-35 {
+        transform: translateY(0%) !important;
+    }
+
+    .admin-image-profil {
+        width: 100% !important;
+        height: 410px !important;
+    }
+
+    .admin-update-form {
+        padding: 16px;
+    }
+
+    .card-list {
+        display: block !important;
+    }
+
+    .card-responsive-100 {
+        width: 100% !important;
+    }
+
+    .ml-0-res {
+        margin-left: 0% !important;
+    }
+
+    .w-30 {
+        width: 100% !important;
+    }
+
+    .card-count-tasks:nth-child(2) {
+        margin-left: 0;
+        margin: 10px 0;
+    }
+
+    .w-demi {
+        width: 100% !important;
+    }
+
+    .burger-menu-customer {
+        display: none;
+    }
+
+    .ml-20 {
+        margin-left: 0 !important;
+    }
+
+    .w-79 {
+        width: 100% !important;
+    }
+
+    .resp-customer-header {
+        position: relative;
+        right: 5%;
+    }
+}
+
+@media only screen and (max-width: 867px) {
+    .resp-customer-header {
+        right: 24%;
+    }
+}
+
+@media only screen and (max-width:786px) {
+    .card-service {
+        transform: translateX(-22%) translateY(-35%) !important;
+    }
+
+    .contact-section {
+        display: block !important;
+    }
+
+    .contact-form {
+        padding: 0 5% 0% 5% !important;
+    }
+
+    .contact-information {
+        left: 0 !important;
+    }
+
+    .main-admin-responsive {
+        margin-left: 0 !important;
+    }
+
+    .fixed-header-admin {
+        width: 100% !important;
+    }
+
+    .mt-6 {
+        margin-top: 10% !important;
+    }
+}
+
+@media only screen and (max-width: 681px) {
+    .resp-customer-header {
+        right: 37%;
+    }
+}
+
+@media only screen and (max-width: 561px) {
+    .resp-customer-header {
+        right: 50%;
+    }
+}
+
+@media only screen and (max-width:444px) {
+    .card-service {
+        transform: translateX(0%) translateY(-3%) !important;
+    }
+
+    .resp-customer-header {
+        right: 60%;
+    }
+
+    .mt-6 {
+        margin-top: 14% !important;
+    }
+}
