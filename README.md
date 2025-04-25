@@ -13,4 +13,4 @@
 - 🔔 **Notifications automatiques** pour :
   - Tâches à démarrer
   - Tâches accomplis
-- 📂 Interface simple et épurée avec Laravel Breeze ou Blade
+- 📂 Interface simple et épurée avec Laravel Breeze (Auth) et Blade
